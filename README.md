@@ -1,3 +1,3 @@
 # hello-world
-First project in Git
+First proj in Git
 My name is Nicaury :P 
